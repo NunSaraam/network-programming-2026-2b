@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/03/Menu.unity
+    guid: b1846572f4df89647b55daa145de74c5
+  - enabled: 1
+    path: Assets/Scenes/03/Game.unity
+    guid: 93bb132e265f92c4ea1bc0b93554c95c
+  - enabled: 1
+    path: Assets/Scenes/03/Tap.unity
+    guid: c81553d35bb341b4f9125e9e36ac13c2
+  - enabled: 1
+    path: Assets/Scenes/03/Swipe.unity
+    guid: c79ce7647557dd7409c77c8214f269cf
+  - enabled: 1
+    path: Assets/Scenes/03/Stick.unity
+    guid: 375c368b392f7464dbd947f1dab8cfde
+  - enabled: 1
+    path: Assets/Scenes/03/Hold.unity
+    guid: 66f210b1880735d4499986ee8f10c570
+  - enabled: 1
+    path: Assets/Scenes/03/Click.unity
+    guid: 78737f814d86aee43941636515bd4c63
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
